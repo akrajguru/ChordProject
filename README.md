@@ -1,4 +1,7 @@
-# ChordProject ( CS 297 - Deliverable 1)
+ChordProject
+
+Advanced implementation of Chord as a storage system can be found at the following reporsitory:
+https://github.com/akrajguru/DecentralizedStore 
 
 This is a Java implementation of the famous chord protocol. To run the project follow the steps given below:
 
